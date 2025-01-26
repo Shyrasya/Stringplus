@@ -81,6 +81,6 @@ Makefile проекта содержит следующие цели:
 
 | Участник      |            |
 | ------------- | ------------------ |
-| lenwooda, kristofs, ebbenwai, godwynje | |
+| [lenwooda](https://github.com/llllenivka), [kristofs](https://github.com/BalagurovaA), ebbenwai, godwynje | |
 | [lemongrb](https://github.com/Shyrasya) | Функции strtok, strstr, соответствующие unit-тесты |
 
